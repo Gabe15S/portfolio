@@ -1,10 +1,10 @@
 {
-    "name": "Portfólio PRO por Programador Aventureiro",
-    "short_name": "Portfólio PRO",
+    "name": "Portifólio Gabriel Souza",
+    "short_name": "Portifólio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#000000",
-    "description": "Projeto desenvolvido no curso Flet 360 do Programador Aventureiro!",
+    "description": "Portifólio de desenvolvimento de aplicações e automações multiplataforma",
     "orientation": "natural"
 }

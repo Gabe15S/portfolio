@@ -1,0 +1,10 @@
+{
+    "name": "Portifólio Gabriel Souza",
+    "short_name": "Portifólio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Portifólio de desenvolvimento de aplicações e automações multiplataforma",
+    "orientation": "natural"
+}
